@@ -1,0 +1,11 @@
+size(800,800);
+background(#05EABA);
+//body
+ellipse(400,200,100,100);
+ellipse(400,290,120,120);
+ellipse(400,400,140,140);
+//eyes
+fill(#1C1B1B);
+ellipse(420,190,15,15);
+ellipse(380,190,15,15);
+//nose
